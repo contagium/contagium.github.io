@@ -1,4 +1,4 @@
-/*! HTML5 Boilerplate v5.2.0 | MIT License | undefined */
+/*! HTML5 Boilerplate v5.2.0 | undefined License | undefined */
 
 /*
  * What follows is the result of much research on cross-browser styling.
@@ -102,7 +102,6 @@ textarea {
     max-width: 500px;
     min-height: 100vh;
     background: #EEE;
-    box-shadow: 0 0 20px 5px #A00;
 }
 
 /* ==========================================================================
